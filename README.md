@@ -1,1 +1,6 @@
-IFF YOU USING EXECUTOR MOBILE LIKE ARCEUS X OR DELTA USE THIS SHORTCUTTER "loadstring(game:HttpGet('https://raw.githubusercontent.com/N9TYDteam/Nhub-v2.3/refs/heads/main/Nhub'))()" also use it on pc but not need
+loadstring(game:HttpGet('https://raw.githubusercontent.com/N9TYDteam/Nhub-v2.3/refs/heads/main/Nhub%20new%20V1.0'))()
+
+NEW NHUB V1.0
+--------------------------------------------------------------------------------------------------------------------
+
+old is not avaible
